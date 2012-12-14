@@ -1,4 +1,6 @@
-
+//==============================
+// get data from database
+//==============================
 	
 	var searchTopic;
 	var newsFeed = [];

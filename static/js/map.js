@@ -1,3 +1,7 @@
+//==============================
+// google map api related codes
+//==============================
+
 
    var levelNum = 0;
    var levelCanvasNum = new Array(0, 0, 0); // 

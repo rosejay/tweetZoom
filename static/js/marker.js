@@ -1,4 +1,7 @@
-// map style!
+//==============================
+// create new markers
+//==============================
+
 var styleIndex = Math.floor((Math.random()*5));
 
 function initTip(level){
